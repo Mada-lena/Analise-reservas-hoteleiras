@@ -1,0 +1,61 @@
+﻿ClienteID;Nome da Agência;PaísID;Cidade;Endereço;Telefone;Email;CNPJ;Responsável
+1;Viagem Feliz;1;São Paulo;Rua Principal, 792;+55 24 90797-3884;viagemfeliz@agencia.com;31.824.626/0001-45;Maria Oliveira
+2;Travel Plus;1;Curitiba;Rua Principal, 797;+55 34 92617-2612;travelplus@agencia.com;25.393.767/0001-65;José Santos
+3;Destino Certo;1;Porto Alegre;Rua Principal, 521;+55 79 94221-3831;destinocerto@agencia.com;10.659.720/0001-92;Carlos Silva
+4;RotaSul;1;Rio de Janeiro;Rua Principal, 437;+55 62 94355-6798;rotasul@agencia.com;68.624.990/0001-35;Rafael Almeida
+5;Mundo Viagens;1;São Paulo;Rua Principal, 554;+55 46 97153-3782;mundoviagens@agencia.com;43.760.448/0001-79;Fernanda Souza
+6;Agência Aventura;1;Brasília;Rua Principal, 712;+55 97 90088-9990;agenciaaventura@agencia.com;41.691.827/0001-12;Maria Oliveira
+7;Turismo VIP;1;Curitiba;Rua Principal, 613;+55 96 95210-5353;turismovip@agencia.com;40.501.311/0001-41;Carlos Silva
+8;Sonho Real;1;Curitiba;Rua Principal, 178;+55 10 93922-1779;sonhoreal@agencia.com;46.416.348/0001-36;José Santos
+9;Conexão Turística;1;Curitiba;Rua Principal, 690;+55 15 93724-4202;conexaoturistica@agencia.com;79.834.750/0001-69;Fernanda Souza
+10;Tour Mundo;1;São Paulo;Rua Principal, 703;+55 43 93669-7551;tourmundo@agencia.com;93.929.150/0001-76;Maria Oliveira
+11;Explora Mais;1;Rio de Janeiro;Rua Principal, 950;+55 46 90918-2297;exploramais@agencia.com;77.871.541/0001-90;Rafael Almeida
+12;Viagem Incrível;1;Porto Alegre;Rua Principal, 508;+55 98 94316-4775;viagemincrivel@agencia.com;11.316.470/0001-23;Carlos Silva
+13;Descubra Tours;1;Porto Alegre;Rua Principal, 745;+55 73 99885-9186;descobratours@agencia.com;98.590.532/0001-17;Fernanda Souza
+14;Viva Turismo;1;Rio de Janeiro;Rua Principal, 894;+55 86 92915-7144;vivaturismo@agencia.com;67.615.713/0001-53;Rafael Almeida
+15;Horizontes;1;São Paulo;Rua Principal, 938;+55 72 98237-8271;horizontes@agencia.com;70.208.686/0001-44;Maria Oliveira
+16;Caminho Certo;1;Brasília;Rua Principal, 905;+55 25 92901-3044;caminhocerto@agencia.com;50.854.248/0001-17;Carlos Silva
+17;Passagem Garantida;1;Porto Alegre;Rua Principal, 963;+55 61 99036-1178;passagemgarantida@agencia.com;15.895.807/0001-40;Fernanda Souza
+18;Viva a Vida;1;Curitiba;Rua Principal, 268;+55 28 93089-5662;vivaavida@agencia.com;65.844.699/0001-28;Rafael Almeida
+19;Viajar Bem;1;Rio de Janeiro;Rua Principal, 655;+55 35 99217-7696;viajarbem@agencia.com;43.430.485/0001-22;José Santos
+20;Planeta Terra;1;São Paulo;Rua Principal, 211;+55 44 96481-3961;planetaterra@agencia.com;74.132.128/0001-83;Maria Oliveira
+21;CiaTur;1;Curitiba;Rua Principal, 186;+55 34 98776-1743;ciatur@agencia.com;18.339.794/0001-37;Carlos Silva
+22;Rota Segura;1;Rio de Janeiro;Rua Principal, 578;+55 16 97722-3409;rotasegura@agencia.com;74.436.866/0001-98;Fernanda Souza
+23;Paraíso Turismo;1;São Paulo;Rua Principal, 757;+55 94 97163-4212;paraisoturismo@agencia.com;48.683.214/0001-49;José Santos
+24;Dream Travel;1;São Paulo;Rua Principal, 969;+55 14 91697-4718;dreamtravel@agencia.com;56.424.322/0001-86;Carlos Silva
+25;Econômica Tour;1;Porto Alegre;Rua Principal, 541;+55 19 90924-9935;economicatour@agencia.com;78.277.122/0001-54;Maria Oliveira
+26;Seu Destino;1;Porto Alegre;Rua Principal, 821;+55 98 99882-8673;seudestino@agencia.com;13.642.467/0001-54;Rafael Almeida
+27;TopTravel;1;Brasília;Rua Principal, 398;+55 28 97107-7909;toptravel@agencia.com;29.232.205/0001-12;José Santos
+28;Viaje Argentina;2;Buenos Aires;Rua Principal, 834;+54 25 94063-2486;viajeargentina@agencia.com;13.577.965/0001-46;Juan Perez
+29;Destino Argentina;2;Buenos Aires;Rua Principal, 345;+54 21 90101-2380;destinoargentina@agencia.com;32.694.904/0001-15;Maria Lopez
+30;Argentina Adventures;2;Rosario;Rua Principal, 259;+54 10 93738-9007;argentinaadventures@agencia.com;69.647.716/0001-12;Carlos Martinez
+31;Argentina Travel;2;Córdoba;Rua Principal, 382;+54 62 96633-4050;argentinatravel@agencia.com;42.157.541/0001-36;Sofia Gonzalez
+32;Argentina Discoveries;2;Rosario;Rua Principal, 565;+54 44 94694-7281;argentindiscoveries@agencia.com;25.887.931/0001-93;Diego Fernandez
+33;Chile Discovery;3;Santiago;Rua Principal, 801;+56 27 92731-1711;chilediscovery@agencia.com;83.365.566/0001-50;Francisco Ramirez
+34;Explora Chile;3;Valparaíso;Rua Principal, 371;+56 61 98290-1171;explorachile@agencia.com;55.154.417/0001-78;Javiera Torres
+35;Chile Excursions;3;Viña del Mar;Rua Principal, 696;+56 72 99528-5014;chileexcursions@agencia.com;78.885.486/0001-59;Camila Soto
+36;Uruguay Voyages;6;Montevidéu;Rua Principal, 986;+598 67 92563-3482;uruguayvoyages@agencia.com;46.439.214/0001-78;Ana Suarez
+37;Punta del Este Travel;6;Punta del Este;Rua Principal, 414;+598 22 98556-1225;puntadeleste@agencia.com;62.343.667/0001-95;Luis Fernandez
+38;Rutas Uruguay;6;Montevidéu;Rua Principal, 724;+598 11 94906-8125;rutasuruguay@agencia.com;24.227.498/0001-45;Maria Gonzalez
+39;Paraguay Travel;7;Assunção;Rua Principal, 188;+595 88 97256-4606;paraguaytravel@agencia.com;97.944.457/0001-79;Diego Ruiz
+40;Asunción Excursions;7;Assunção;Rua Principal, 987;+595 56 98754-7324;asuncexcursions@agencia.com;78.161.350/0001-46;Carla Benitez
+41;Bolivia Bound;8;La Paz;Rua Principal, 421;+591 94 91489-9546;boliviabound@agencia.com;22.961.213/0001-25;Luis Gutierrez
+42;Santa Cruz Tours;8;Santa Cruz;Rua Principal, 310;+591 27 97480-1975;santacruztours@agencia.com;47.113.430/0001-67;Ana Flores
+43;Colombia Trips;4;Bogotá;Rua Principal, 543;+57 17 99420-8371;colombiatrips@agencia.com;74.323.681/0001-14;Camila Rodriguez
+44;Bogotá Travel;4;Medellín;Rua Principal, 276;+57 67 99592-3274;bogotatravel@agencia.com;14.268.555/0001-87;Juan Sanchez
+45;Ecuador Expeditions;9;Quito;Rua Principal, 418;+593 35 96008-2783;ecuadorexpeditions@agencia.com;65.938.792/0001-57;Daniela Carrasco
+46;Quito Journeys;9;Quito;Rua Principal, 187;+593 29 94877-5644;quitojourneys@agencia.com;11.842.431/0001-84;Daniela Carrasco
+47;Explore Ecuador;9;Quito;Rua Principal, 526;+593 54 98625-2768;exploreecuador@agencia.com;83.623.128/0001-67;Jose Rojas
+48;Turismo Guayaquil;9;Guayaquil;Rua Principal, 117;+593 81 98249-8807;turismoguayaquil@agencia.com;73.612.972/0001-42;Jose Rojas
+49;SuperTravel Guayas;9;Guayaquil;Rua Principal, 714;+593 79 98926-6160;supertravelguayas@agencia.com;63.821.122/0001-54;Jose Rojas
+50;Viagem Premium Quito;9;Guayaquil;Rua Principal, 395;+593 86 93389-5838;viagempremiumquito@agencia.com;43.998.971/0001-65;Jose Rojas
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;

@@ -1,0 +1,167 @@
+﻿PaísID;Nome do País;Região;Moeda;Código ISO do País;População Estimada;PIB (US$ Milhões)
+1;Brasil;América do Sul;Real;BR;203083797;2174000
+2;Argentina;América do Sul;Peso Argentino;AR;45773884;641000
+3;Chile;América do Sul;Peso Chileno;CL;19629590;335000
+4;Colômbia;América do Sul;Peso Colombiano;CO;50882891;363000
+5;Peru;América do Sul;Sol;PE;34352719;268000
+6;Uruguai;América do Sul;Peso Uruguaio;UY;3423108;78000
+7;Paraguai;América do Sul;Guarani;PY;6861524;89000
+8;Bolívia;América do Sul;Boliviano;BO;12388571;84000
+9;Equador;América do Sul;Dólar Americano;EC;18190484;193000
+10;Venezuela;América do Sul;Bolivar;VE;28838499;382000
+11;Estados Unidos;América do Norte;Dólar Americano;US;339987103;27361000
+12;Canadá;América do Norte;Dólar Canadense;CA;38929902;2140000
+13;México;América do Norte;Peso Mexicano;MX;134127189;1789000
+14;Alemanha;Europa;Euro;DE;83783942;4456000
+15;França;Europa;Euro;FR;65273511;3031000
+16;Reino Unido;Europa;Libra Esterlina;GB;69505718;3340000
+17;Itália;Europa;Euro;IT;59641488;2255000
+18;Espanha;Europa;Euro;ES;46335000;1581000
+19;Rússia;Europa/Ásia;Rublo;RU;146140931;2021000
+20;Japão;Ásia;Iene;JP;124127899;5085000
+21;China;Ásia;Yuan;CN;1426391281;14263900
+22;Índia;Ásia;Rupia Indiana;IN;1429921746;28751000
+23;Austrália;Oceania;Dólar Australiano;AU;25687041;13927000
+24;Nova Zelândia;Oceania;Dólar Neozelandês;NZ;5084300;2119000
+25;África do Sul;África;Rand;ZA;59308690;3514000
+26;Egito;África;Libra Egípcia;EG;102334404;3631000
+27;Nigéria;África;Naira;NG;206139589;4481000
+28;Arábia Saudita;Ásia;Rial Saudita;SA;34813867;7001000
+29;Emirados Árabes Unidos;Ásia;Dirham;AE;9890400;4211000
+30;Israel;Ásia;Novo Shekel;IL;9216900;3876000
+31;Coreia do Sul;Ásia;Won Sul-Coreano;KR;51269185;16424000
+32;Singapura;Ásia;Dólar de Singapura;SG;5850342;3791000
+33;Tailândia;Ásia;Baht;TH;69799978;5443000
+34;Vietnã;Ásia;Dong;VN;97338579;2712000
+35;Filipinas;Ásia;Peso Filipino;PH;109581085;3674000
+36;Paquistão;Ásia;Rupia Paquistanesa;PK;220892331;2782000
+37;Bangladesh;Ásia;Taka;BD;164689383;3242000
+38;Indonésia;Ásia;Rupia Indonésia;ID;273523621;11192000
+39;Malásia;Ásia;Ringgit;MY;32365998;3363000
+40;Turquia;Ásia/Europa;Lira Turca;TR;84339067;7614000
+41;Irã;Ásia;Rial Iraniano;IR;83992949;1917000
+42;Grécia;Europa;Euro;GR;10423054;1894000
+43;Portugal;Europa;Euro;PT;10196709;2379000
+44;Suíça;Europa;Franco Suíço;CH;8654622;7091000
+45;Áustria;Europa;Euro;AT;8917205;4614000
+46;Suécia;Europa;Coroa Sueca;SE;10099265;5291000
+47;Noruega;Europa;Coroa Norueguesa;NO;5421242;4033000
+48;Finlândia;Europa;Euro;FI;5540720;2696000
+49;Dinamarca;Europa;Coroa Dinamarquesa;DK;5818553;3646000
+50;Irlanda;Europa;Euro;IE;4937786;4767000
+51;Polônia;Europa;Zloty;PL;38386000;5942000
+52;República Tcheca;Europa;Coroa Tcheca;CZ;10708981;2511000
+53;Hungria;Europa;Forint;HU;9660351;1566000
+54;Romênia;Europa;Leu;RO;19237691;2498000
+55;Bulgária;Europa;Lev;BG;6948445;691000
+56;Ucrânia;Europa;Hryvnia;UA;43733759;1555000
+57;Croácia;Europa;Kuna;HR;4105267;632000
+58;Sérvia;Europa;Dinar Sérvio;RS;8737371;522000
+59;Eslováquia;Europa;Euro;SK;5456362;1121000
+60;Eslovênia;Europa;Euro;SI;2078654;567000
+61;Estônia;Europa;Euro;EE;1326535;337000
+62;Letônia;Europa;Euro;LV;1886198;346000
+63;Lituânia;Europa;Euro;LT;2722289;549000
+64;Islândia;Europa;Coroa Islandesa;IS;343599;242000
+65;Luxemburgo;Europa;Euro;LU;634814;711000
+66;Malta;Europa;Euro;MT;514564;146000
+67;Chipre;Europa;Euro;CY;1207359;249000
+68;Bélgica;Europa;Euro;BE;11589623;5296000
+69;Países Baixos;Europa;Euro;NL;17134872;9125000
+70;Israel;Ásia;Novo Shekel;IL;9216900;3876000
+71;Jordânia;Ásia;Dinar Jordaniano;JO;10203134;437000
+72;Líbano;Ásia;Libra Libanesa;LB;6825445;186000
+73;Síria;Ásia;Libra Síria;SY;17500658;50000
+74;Iraque;Ásia;Dinar Iraquiano;IQ;40222493;2341000
+75;Kuwait;Ásia;Dinar Kuwaitiano;KW;4270571;1346000
+76;Omã;Ásia;Rial Omanense;OM;5106622;766000
+77;Catar;Ásia;Rial do Catar;QA;2881060;1833000
+78;Bahrein;Ásia;Dinar do Bahrein;BH;1701583;387000
+79;Argélia;África;Dinar Argelino;DZ;43851044;1683000
+80;Marrocos;África;Dirham Marroquino;MA;36910558;1241000
+81;Tunísia;África;Dinar Tunisiano;TN;11818619;417000
+82;Líbia;África;Dinar Líbio;LY;6871292;409000
+83;Etiópia;África;Birr Etíope;ET;114963588;960000
+84;Sudão;África;Libra Sudanesa;SD;43849269;315000
+85;Quênia;África;Shilling Queniano;KE;53771296;955000
+86;Tanzânia;África;Shilling Tanzaniano;TZ;59734213;632000
+87;Uganda;África;Shilling Ugandês;UG;45741007;352000
+88;Gana;África;Cedi;GH;31072945;724000
+89;Costa do Marfim;África;Franco CFA;CI;26378275;588000
+90;Camarões;África;Franco CFA;CM;26545863;457000
+91;República Democrática do Congo;África;Franco Congolês;CD;89561403;499000
+92;Zimbábue;África;Dólar do Zimbábue;ZW;14862924;205000
+93;Angola;África;Kwanza;AO;32866272;624000
+94;Moçambique;África;Metical;MZ;31255435;153000
+95;Zâmbia;África;Kwacha Zambiana;ZM;18383955;194000
+96;Namíbia;África;Dólar Namíbio;NA;2540905;124000
+97;Botsuana;África;Pula;BW;2351627;186000
+98;Madagascar;África;Ariary Malgaxe;MG;27691018;136000
+99;Senegal;África;Franco CFA;SN;16743927;241000
+100;Mali;África;Franco CFA;ML;20250833;172000
+101;Níger;África;Franco CFA;NE;24206636;129000
+102;Burkina Faso;África;Franco CFA;BF;20903273;158000
+103;Chade;África;Franco CFA;TD;16425864;113000
+104;Benim;África;Franco CFA;BJ;12123198;144000
+105;Togo;África;Franco CFA;TG;8278724;78000
+106;Serra Leoa;África;Leone;SL;7976983;41000
+107;Libéria;África;Dólar Liberiano;LR;5057681;32000
+108;Guiné;África;Franco Guineano;GN;13132792;101000
+109;Guiné-Bissau;África;Franco CFA;GW;1968001;15000
+110;Gabão;África;Franco CFA;GA;2225734;172000
+111;República do Congo;África;Franco CFA;CG;5518092;109000
+112;Ruanda;África;Franco Ruandês;RW;12952218;104000
+113;Burundi;África;Franco Burundês;BI;11890784;30000
+114;Somália;África;Shilling Somali;SO;15893222;47000
+115;República Centro-Africana;África;Franco CFA;CF;4829767;24000
+116;Mauritânia;África;Ouguiya;MR;4649660;77000
+117;Suazilândia;África;Lilangeni;SZ;1160164;47000
+118;Lesoto;África;Loti;LS;2142249;24000
+119;Djibouti;África;Franco de Djibouti;DJ;988000;34000
+120;Eritreia;África;Nakfa;ER;3546000;23000
+121;Sudão do Sul;África;Libra Sul-Sudanesa;SS;11193725;37000
+122;Maldivas;Ásia;Rufiyaa;MV;515696;55000
+123;Butão;Ásia;Ngultrum;BT;771612;28000
+124;Nepal;Ásia;Rupia Nepalesa;NP;29136808;337000
+125;Afeganistão;Ásia;Afegane;AF;38928346;198000
+126;Mongólia;Ásia;Tugrik;MN;3278290;140000
+127;Camboja;Ásia;Riel;KH;16718965;270000
+128;Laos;Ásia;Kip;LA;7275560;191000
+129;Brunei;Ásia;Dólar do Brunei;BN;437483;121000
+130;Timor-Leste;Ásia;Dólar Americano;TL;1318442;18000
+131;Papua Nova Guiné;Oceania;Kina;PG;8947027;235000
+132;Fiji;Oceania;Dólar de Fiji;FJ;896445;55000
+133;Vanuatu;Oceania;Vatu;VU;307150;9000
+134;Ilhas Salomão;Oceania;Dólar das Ilhas Salomão;SB;686884;14000
+135;Samoa;Oceania;Tala;WS;198414;9000
+136;Tonga;Oceania;Paʻanga;TO;105695;5000
+137;Kiribati;Oceania;Dólar Australiano;KI;119449;2000
+138;Tuvalu;Oceania;Dólar Australiano;TV;11792;5000
+139;Micronésia;Oceania;Dólar Americano;FM;548914;4000
+140;Palau;Oceania;Dólar Americano;PW;18094;3000
+141;Nauru;Oceania;Dólar Australiano;NR;10824;1000
+142;Ilhas Marshall;Oceania;Dólar Americano;MH;59190;2000
+143;São Tomé e Príncipe;África;Dobra;ST;219159;4000
+144;Comores;África;Franco Comorense;KM;869601;12000
+145;Seychelles;África;Rupia de Seychelles;SC;98347;16000
+146;Cabo Verde;África;Escudo Cabo-Verdiano;CV;555987;19000
+147;Andorra;Europa;Euro;AD;77265;32000
+148;Liechtenstein;Europa;Franco Suíço;LI;38128;62000
+149;San Marino;Europa;Euro;SM;33931;16000
+150;Vaticano;Europa;Euro;VA;800;1000
+151;Mônaco;Europa;Euro;MC;39242;65000
+152;Islândia;Europa;Coroa Islandesa;IS;343599;242000
+153;Belize;América Central;Dólar de Belize;BZ;397621;19000
+154;Barbados;Caribe;Dólar de Barbados;BB;287371;51000
+155;Antígua e Barbuda;Caribe;Dólar do Caribe Oriental;AG;97929;16000
+156;São Cristóvão e Nevis;Caribe;Dólar do Caribe Oriental;KN;53192;10000
+157;Dominica;Caribe;Dólar do Caribe Oriental;DM;71991;6000
+158;Granada;Caribe;Dólar do Caribe Oriental;GD;112523;11000
+159;Santa Lúcia;Caribe;Dólar do Caribe Oriental;LC;183627;21000
+160;São Vicente e Granadinas;Caribe;Dólar do Caribe Oriental;VC;110940;8000
+161;Bahamas;Caribe;Dólar Bahamense;BS;393244;137000
+162;Haiti;Caribe;Gourde Haitiano;HT;11402533;84000
+163;Jamaica;Caribe;Dólar Jamaicano;JM;2961161;150000
+164;Trinidad e Tobago;Caribe;Dólar de Trinidad e Tobago;TT;1399491;232000
+165;Suriname;América do Sul;Dólar do Suriname;SR;586634;35000
+166;Guiana;América do Sul;Dólar da Guiana;GY;786559;68000
