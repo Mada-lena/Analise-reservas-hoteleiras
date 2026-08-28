@@ -14,7 +14,7 @@ Analisar o desempenho de vendas anual, identificar os clientes VIPs e entender o
 <img width="748" height="368" alt="Reserva por pais" src="https://github.com/user-attachments/assets/aa881074-3b89-4ca7-b352-97a0cac76253" />
 
 ## 📈 Insights Gerados
-- **Vendas por Ano:** Identificamos um crescimento de X% entre 2023 e 2024.
+- **Vendas por Ano:** Identificamos um crescimento de 50% entre 2023 e 2024.
 - **Receita por funcionario:** Os funcionarios com  maiores  faturamento de vendas.
 - **Sazonalidade:** O período de Novembro/outono concentra o maior volume de reservas, sugerindo reforço de check-in nesta época.
 - **Receita por Passageiro:** Calculamos a média de receita gerada por cada check-in.
