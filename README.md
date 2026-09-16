@@ -12,13 +12,13 @@ A análise foi realizada no Power BI, utilizando Power Query para preparação d
 
 O objetivo é transformar dados de reservas em informações que possam apoiar decisões relacionadas a:
 
-- desempenho das vendas;
-- canais de reserva;
-- evolução da receita;
-- comportamento dos clientes;
-- sazonalidade da procura;
-- cancelamentos;
-- desempenho por país;
+- desempenho das vendas
+- canais de reserva.
+- evolução da receita.
+- comportamento dos clientes.
+- sazonalidade da procura.
+- cancelamentos.
+- desempenho por país.
 - identificação dos principais clientes.
 
 ---
@@ -53,33 +53,33 @@ A análise procurou responder às seguintes perguntas:
 
 Os dados foram tratados no Power Query, incluindo:
 
-- organização das tabelas;
-- tratamento de tipos de dados;
-- transformação de campos;
-- preparação das informações para análise;
-- relacionamento entre diferentes fontes de dados.
+- organização das tabelas.
+- tratamento de tipos de dados.
+- transformação de campos.
+- preparação das informações para análise.
+- relacionamento entre diferentes fontes de dados 
 
 2. Modelagem
 
 Foi estruturado um modelo de dados para permitir a análise das reservas por diferentes dimensões, como:
 
-- período;
-- país;
-- cliente;
-- funcionário;
-- canal de venda;
+- período.
+- país.
+- cliente.
+- funcionário.
+- canal de venda.
 - reserva.
 
 3. Criação das métricas
 
 Foram utilizadas medidas DAX para calcular indicadores como:
 
-- receita total;
-- número de reservas;
-- receita média por reserva;
-- participação na receita;
-- evolução anual;
-- ranking de clientes;
+- receita total.
+- número de reservas.
+- receita média por reserva.
+- participação na receita.
+- evolução anual.
+- ranking de clientes.
 - indicadores relacionados aos cancelamentos.
 
 4. Visualização
