@@ -130,8 +130,8 @@ O projeto inclui um dashboard desenvolvido em Power BI para exploração dos pri
 ### Análise Geográfica (Reservas por País)
 <img width="748" height="368" alt="Reserva por pais" src="https://github.com/user-attachments/assets/aa881074-3b89-4ca7-b352-97a0cac76253" />
 
-
 ---
+
 📁 Estrutura do projeto
 
 Analise-Reservas-hot-is/
